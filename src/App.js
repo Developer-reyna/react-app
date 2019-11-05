@@ -39,7 +39,6 @@ class App extends Component {
 					<div className="card mt-4">
 				        <div className="card-title text-center">
 				            <h3>{task.title}</h3>
-				            tetststs
 				            <span className="badge badge-pill badge-danger ml-2">
 				                {task.priority}
 				            </span>
